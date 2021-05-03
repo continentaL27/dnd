@@ -7,4 +7,5 @@
 [5 video: persist List Reordering with react-beatiful-dnd using the onDragEnd Callback](https://egghead.io/lessons/react-persist-list-reordering-with-react-beautiful-dnd-using-the-ondragend-callback)\
 [6 video: Customise the Appearance of an App during a Drag using react-beautiful-dnd snapshot Values](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-during-a-drag-using-react-beautiful-dnd-snapshot-values)\
 [7 video: Customise the Appearance of an App using react-beautiful-dnd onDragStart and onDragEnd](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-using-react-beautiful-dnd-ondragstart-and-ondragend)\
-[8 video: Designate Control of Dragging for a react-beautiful-dnd Draggable with dragHandleProps](https://egghead.io/lessons/react-designate-control-of-dragging-for-a-react-beautiful-dnd-draggable-with-draghandleprops)
+[8 video: Designate Control of Dragging for a react-beautiful-dnd Draggable with dragHandleProps](https://egghead.io/lessons/react-designate-control-of-dragging-for-a-react-beautiful-dnd-draggable-with-draghandleprops)\
+[9 video: Move Items between Columns with react-beautiful-dnd using onDragEnd](https://egghead.io/lessons/react-move-items-between-columns-with-react-beautiful-dnd-using-ondragend)\
