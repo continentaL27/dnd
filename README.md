@@ -6,3 +6,4 @@
 [4 video: Reorder a List with react-beatiful-dnd](https://egghead.io/lessons/react-reorder-a-list-with-react-beautiful-dnd)
 [5 video: persist List Reordering with react-beatiful-dnd using the onDragEnd Callback](https://egghead.io/lessons/react-persist-list-reordering-with-react-beautiful-dnd-using-the-ondragend-callback)
 [6 video: Customise the Appearance of an App during a Drag using react-beautiful-dnd snapshot Values](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-during-a-drag-using-react-beautiful-dnd-snapshot-values)
+[7 video: Customise the Appearance of an App using react-beautiful-dnd onDragStart and onDragEnd](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-using-react-beautiful-dnd-ondragstart-and-ondragend)
