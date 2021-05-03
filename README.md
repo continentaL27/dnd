@@ -9,6 +9,6 @@
 [7 video: Customise the Appearance of an App using react-beautiful-dnd onDragStart and onDragEnd](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-using-react-beautiful-dnd-ondragstart-and-ondragend)\
 [8 video: Designate Control of Dragging for a react-beautiful-dnd Draggable with dragHandleProps](https://egghead.io/lessons/react-designate-control-of-dragging-for-a-react-beautiful-dnd-draggable-with-draghandleprops)\
 [9 video: Move Items between Columns with react-beautiful-dnd using onDragEnd](https://egghead.io/lessons/react-move-items-between-columns-with-react-beautiful-dnd-using-ondragend)\
-[10 video: Conditionally Allow Movement using react-beautiful-dnd Draggable and Droppable Props](https://egghead.io/lessons/react-conditionally-allow-movement-using-react-beautiful-dnd-draggable-and-droppable-props)
-[11 video: Create Reorderable Horizontal Lists with react-beautiful-dnd direction prop](https://egghead.io/lessons/react-create-reorderable-horizontal-lists-with-react-beautiful-dnd-direction-prop)/
+[10 video: Conditionally Allow Movement using react-beautiful-dnd Draggable and Droppable Props](https://egghead.io/lessons/react-conditionally-allow-movement-using-react-beautiful-dnd-draggable-and-droppable-props)\
+[11 video: Create Reorderable Horizontal Lists with react-beautiful-dnd direction prop](https://egghead.io/lessons/react-create-reorderable-horizontal-lists-with-react-beautiful-dnd-direction-prop)\
 [12 video: Reorder Columns with react-beautiful-dnd](https://egghead.io/lessons/react-reorder-columns-with-react-beautiful-dnd)
